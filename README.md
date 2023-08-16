@@ -14,7 +14,7 @@ Nesta trilha, serão abordados temas do básico ao avançado com Java, como: met
 * Project Challenge: Build your portfolio by building practical projects with the knowledge acquired throughout the classes.
 * Ranking: Each bootcamp has a ranking with exclusive awards, where you score according to the interactions you carry out in Forums and Rooms, the successes you have in quizzes and the quality of the code you develop in the challenges.
 
-Tools for your learning:
+## Tools for your learning:
 
 * Forum: A space for you to interact and ask your technical questions with our community.
 * Rooms: Space for you to chat with other enrolled in the bootcamp and increase your networking.
