@@ -1,7 +1,7 @@
 # Santander Bootcamp 2023 Backend Java - DIO
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/112780452/221062931-185cb3f8-4886-44cb-abf8-bb25cbffd426.png](https://hermes.dio.me/tracks/9631898e-a83c-4c04-aefd-a782ead2db8f.png" width="400px" height="400px"/>
+  <img src="[https://user-images.githubusercontent.com/112780452/221062931-185cb3f8-4886-44cb-abf8-bb25cbffd426.png](https://hermes.dio.me/tracks/9631898e-a83c-4c04-aefd-a782ead2db8f.png](https://hermes.dio.me/tracks/9631898e-a83c-4c04-aefd-a782ead2db8f.png)" width="400px" height="400px"/>
 </div>
 
 Nesta trilha, serão abordados temas do básico ao avançado com Java, como: metodologias ágeis, sintaxe e práticas de codificação em Java, programação orientada a objetos, bancos de dados SQL e NoSQL, e desenvolvimento de APIs REST com o Spring Framework.
